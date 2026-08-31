@@ -173,6 +173,12 @@ Razorpay payment verification is performed securely on the backend using the Raz
 \- Postman
 
 
+## 📄 Project Documentation
+
+Complete project documentation is available here:
+
+[Download ShopEZ Project Documentation](./documentation/ShopEZ_Project_Documentation.pdf)
+
 
 \---
 
